@@ -1,8 +1,7 @@
 # Document AI Assistant (RAG)
 
 Upload a PDF or text file, then ask questions about it and get answers grounded
-in the document, with page/chunk citations. Built entirely on free/low-cost
-components — no OpenAI dependency.
+in the document, with page/chunk citations.
 
 ## At a glance
 
